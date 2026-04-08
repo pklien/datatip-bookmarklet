@@ -1,5 +1,5 @@
 # datatip-bookmarklet
-DataTip's PHP bookrmarklet function for parsing information.
+DataTip's PHP bookmarklet function for parsing information.
 
 ## What is this?
 
